@@ -1,7 +1,7 @@
 package test;
 import java.util.Comparator;
 
-
+/// SE UTILIZAN NOMBRES PRE ESTABLECIDOS DEBIDO A QUE AUN NO VIMOS INPUTS EN LA MATERIA (SI BIEN NO ES DIFICL INTENTE IMLPEMENTAR SOLO LO VISTO)
 public class ArbolPersonas {
     public static void main(String[] args) {
         // Comparator por DNI (numérico)
